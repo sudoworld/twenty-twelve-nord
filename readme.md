@@ -3,5 +3,5 @@ The Wordpress Theme Twenty Twelve - [Twenty Twelve &#8211; WordPress-Theme &#124
 Demo: https://sudo.tf/wp-demo/
 
 
-![](https://wwv.sudo.tf/img/demo.PNG)
+![]([https://wwv.sudo.tf/img/demo.PNG](https://sudo.tf/img/demo.PNG)https://sudo.tf/img/demo.PNG)
 
