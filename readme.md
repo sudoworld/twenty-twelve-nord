@@ -1,7 +1,4 @@
-The Wordpress Theme Twenty Twelve - [Twenty Twelve &#8211; WordPress-Theme &#124; WordPress.org Deutsch](https://de.wordpress.org/themes/twentytwelve/) in Nord Style
+Simple Nord theme port of the WordPress theme [Twenty Twelve]([Twenty Twelve &#8211; WordPress theme &#124; WordPress.org](https://wordpress.org/themes/twentytwelve/)) for a web project of mine.
 
-Demo: https://sudo.tf/wp-demo/
-
-
-![]([https://wwv.sudo.tf/img/demo.PNG](https://sudo.tf/img/demo.PNG)https://sudo.tf/img/demo.PNG)
+Demo: [WP Demo | /* Twenty Twelve Nord Theme */](https://dev.sudo.tf/wp/nord)
 
